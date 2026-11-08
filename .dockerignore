@@ -1,0 +1,6 @@
+cloudflared
+data/blue-dog.db
+data/admin.txt
+*.log
+*.sh
+README.md
